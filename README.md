@@ -1,12 +1,12 @@
 <!-- Dynamic Typing Animation Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+KULDEEP+KUMAR+👋;A+Passionate+Frontend+Developer;Learning+Flutter%2C+Figma+%26+GenAI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+KULDEEP+KUMAR+👋;A+Passionate+Frontend+Developer;Learning+Flutter%2C+Figma+%26+GenAI" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge&logo=map&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/github/followers/kuldeepkmahto?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=kuldeepkmahto&label=Profile%20Views&color=0077B5&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge&logo=map&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/github/followers/kuldeepkmahto?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=kuldeepkmahto&label=Profile%20Views&color=0077B5&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
