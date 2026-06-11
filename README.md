@@ -1,6 +1,6 @@
 <!-- Dynamic Typing Animation Banner -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+KULDEEP+KUMAR+👋;A+Passionate+Frontend+Developer;Learning+Flutter%2C+Figma+%26+GenAI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+KULDEEP+KUMAR+%F0%9F%91%8B;A+Passionate+Frontend+Developer;Learning+Flutter%2C+Figma+%26+GenAI" alt="Typing SVG" />
 </div>
 
 <p align="center">
